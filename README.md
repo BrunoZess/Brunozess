@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack;Construindo+meu+segundo+c%C3%A9rebro" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <h3 align="center">✦ Sobre mim ✦</h3>
 
 <p align="center">
-  <img src="https://wsrv.nl/?url=raw.githubusercontent.com/BrunoZess/Brunozess/main/assets/profile.jpeh&w=400&h=400&fit=cover&mask=circle" width="200" alt="Foto de perfil"/>
+  <img src="https://wsrv.nl/?url=raw.githubusercontent.com/BrunoZess/Brunozess/main/assets/profile.jpeg&w=400&h=400&fit=cover&mask=circle" width="200" alt="Foto de perfil"/>
 </p>
 
 <h3 align="center">Estudante de Ciência da Computação</h3>
@@ -40,9 +40,6 @@
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
     <img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
@@ -62,7 +59,7 @@
 <h3 align="center">✦ Projetos ✦</h3>
 
 <p align="center">
-  <b>🌿 Fern — Segundo Cérebro</b><br>
+  <b> Fern </b><br>
   Aplicação desktop para organização de notas e quadros.<br><br>
   <img src="https://img.shields.io/badge/Electron-6d28d9?style=flat-square&logo=electron&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-8b5cf6?style=flat-square&logo=javascript&logoColor=white"/>
