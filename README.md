@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -12,29 +12,20 @@
 
 <h3 align="center">✦ Sobre mim ✦</h3>
 
-<table align="center" width="90%">
-<tr>
+<p align="center">
+  <img src="https://wsrv.nl/?url=raw.githubusercontent.com/BrunoZess/Brunozess/main/assets/profile.jpeh&w=400&h=400&fit=cover&mask=circle" width="200" alt="Foto de perfil"/>
+</p>
 
-<td width="60%" valign="middle">
+<h3 align="center">Estudante de Ciência da Computação</h3>
 
-### 🌌 Estudante de Ciência da Computação
+<p align="center">
+  Sou estudante de Ciência da Computação na <b>Universidade Federal de Sergipe (UFS)</b>,<br>
+  apaixonado por criar aplicações, automatizar o dia a dia e aprender coisas novas.
+</p>
 
-Sou estudante de Ciência da Computação na **Universidade Federal de Sergipe (UFS)**.
-
-🎓 **Ciência da Computação — UFS**  
-📍 **Aracaju — SE, Brasil**  
-💻 **Desenvolvedor Full Stack**
-
-</td>
-
-<td width="40%" align="center" valign="middle">
-
-<img src="assets/profile.jpeg" width="250"/>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+   <b>UFS</b> &nbsp;•&nbsp;  <b>Aracaju — SE, Brasil</b> &nbsp;•&nbsp;  <b>Desenvolvedor Full Stack</b>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:8b5cf6,100:0d0d0f&height=2" width="100%"/>
@@ -70,45 +61,27 @@ Sou estudante de Ciência da Computação na **Universidade Federal de Sergipe (
 
 <h3 align="center">✦ Projetos ✦</h3>
 
-<table align="center" width="90%">
-<tr>
+<p align="center">
+  <b>🌿 Fern — Segundo Cérebro</b><br>
+  Aplicação desktop para organização de notas e quadros.<br><br>
+  <img src="https://img.shields.io/badge/Electron-6d28d9?style=flat-square&logo=electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-8b5cf6?style=flat-square&logo=javascript&logoColor=white"/>
+  <br><br>
+  <a href="https://github.com/BrunoZess/Fern">
+    <img src="https://img.shields.io/badge/Ver%20projeto-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<td align="center" width="50%">
-
-### 🌿 Fern
-
-Aplicação desktop para organização de notas e quadros.
-
-<img src="https://img.shields.io/badge/Electron-6d28d9?style=flat-square&logo=electron&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-8b5cf6?style=flat-square&logo=javascript&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/BrunoZess/Fern">
-  <img src="https://img.shields.io/badge/Ver%20projeto-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
-### 🛰️ Arasaka
-
-Projeto web desenvolvido com Python e Flask.
-
-<img src="https://img.shields.io/badge/Python-6d28d9?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-8b5cf6?style=flat-square&logo=flask&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/BrunoZess/Arasaka">
-  <img src="https://img.shields.io/badge/Ver%20projeto-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <b>🛰️ Arasaka</b><br>
+  Projeto web desenvolvido com Python e Flask.<br><br>
+  <img src="https://img.shields.io/badge/Python-6d28d9?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-8b5cf6?style=flat-square&logo=flask&logoColor=white"/>
+  <br><br>
+  <a href="https://github.com/BrunoZess/Arasaka">
+    <img src="https://img.shields.io/badge/Ver%20projeto-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:8b5cf6,100:0d0d0f&height=2" width="100%"/>
