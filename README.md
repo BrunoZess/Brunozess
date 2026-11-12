@@ -31,12 +31,10 @@
 
 ### 🚀 Projetos em destaque
 
-| Projeto | O que é | Link |
+| Projeto | Sobre | Link |
 |---|---|---|
 | 🧠 **[Fern / Segundo Cérebro](https://github.com/BrunoZess/Fern)** | App desktop de notas e quadro branco (Electron) | [⬇️ Baixar](https://github.com/BrunoZess/Fern/releases/latest) |
 | 🏙️ **[Arasaka](https://github.com/BrunoZess/Arasaka)** | Projeto web em Python + Flask | [Repo](https://github.com/BrunoZess/Arasaka) |
-| 🏆 **[Tieslist da Tropa](https://github.com/BrunoZess/Tieslist-da-Tropa)** | Sitezinho pra usar com os amigos | [🌐 Abrir](https://brunozess.github.io/Tieslist-da-Tropa/) |
-| 🎬 **[Cinemão do Brunão](https://github.com/BrunoZess/cinemao-do-brunao)** | Site do cinema com a galera | [🌐 Abrir](https://brunozess.github.io/cinemao-do-brunao/) |
 
 ---
 
