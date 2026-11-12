@@ -53,23 +53,39 @@
 
 <h3 align="center">✦ Projetos ✦</h3>
 
+<h4 align="center">Fern</h4>
+
 <p align="center">
-  <b> Fern </b><br>
-  Aplicação desktop para organização de notas e quadros.<br><br>
+  <i>Segundo cérebro em formato de aplicação desktop,<br>para organizar notas e quadros.</i>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Electron-6d28d9?style=flat-square&logo=electron&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-8b5cf6?style=flat-square&logo=javascript&logoColor=white"/>
-  <br><br>
+</p>
+
+<p align="center">
   <a href="https://github.com/BrunoZess/Fern">
     <img src="https://img.shields.io/badge/Ver%20projeto-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <b>🛰️ Arasaka</b><br>
-  Projeto web desenvolvido com Python e Flask.<br><br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:4c1d95,100:0d0d0f&height=1" width="40%"/>
+</p>
+
+<h4 align="center">Arasaka</h4>
+
+<p align="center">
+  <i>Projeto web desenvolvido<br>com Python e Flask.</i>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-6d28d9?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-8b5cf6?style=flat-square&logo=flask&logoColor=white"/>
-  <br><br>
+</p>
+
+<p align="center">
   <a href="https://github.com/BrunoZess/Arasaka">
     <img src="https://img.shields.io/badge/Ver%20projeto-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
