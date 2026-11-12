@@ -1,28 +1,4 @@
-<!-- Banner -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,50:4c1d95,100:0d0d0f&height=150&section=header" width="100%"/>
-</p>
-
-<h1 align="center">
-  Oi 👋, eu sou o Bruno
-</h1>
-
-<p align="center">
-  <strong>Estudante de Ciência da Computação • Desenvolvedor</strong>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Construindo+ideias+em+c%C3%B3digo;Aprendendo+um+pouco+mais+todos+os+dias;Projetos%2C+programa%C3%A7%C3%A3o+e+algumas+ideias+aleat%C3%B3rias" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BrunoZess&label=visitas&color=7c3aed&style=flat-square" alt="visitas"/>
-</p>
-
----
-
-<h2 align="center">👨‍💻 Sobre mim</h2>
+<h2 align="center">Sobre mim</h2>
 
 <table align="center">
 <tr>
@@ -50,7 +26,7 @@ Sou estudante de Ciência da Computação na **Universidade Federal de Sergipe (
 
 ---
 
-<h2 align="center">🤝 Conecte-se comigo</h2>
+<h2 align="center">Conecte-se comigo</h2>
 
 <p align="center">
 
@@ -80,13 +56,12 @@ Sou estudante de Ciência da Computação na **Universidade Federal de Sergipe (
 
 ---
 
-
 <table align="center">
 <tr>
 
 <td align="center" width="50%">
 
-###  Fern — Segundo Cérebro
+### Fern — Segundo Cérebro
 
 Aplicação desktop para organização de notas e quadros.
 
@@ -102,7 +77,7 @@ Aplicação desktop para organização de notas e quadros.
 
 <td align="center" width="50%">
 
-###  Arasaka
+### Arasaka
 
 Projeto web desenvolvido com Python e Flask.
 
