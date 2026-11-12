@@ -24,42 +24,71 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+<!-- Sobre mim -->
 
-<img align="right" src="assets/profile.png" width="280"/>
+<h2 align="center">👨‍💻 Sobre mim</h2>
 
-**Bruno Ulisses — Estudante de Ciência da Computação**
+<table align="center">
+<tr>
 
-Sou estudante de Ciência da Computação na **Universidade Federal de Sergipe (UFS)** e gosto de transformar ideias em projetos.
+<td width="60%" valign="middle">
 
-Atualmente venho focando principalmente em desenvolvimento **web e backend**, enquanto continuo explorando novas tecnologias e ferramentas.
+<h3>Bruno Ulisses — Estudante de Ciência da Computação</h3>
 
-- 🎓 Ciência da Computação — UFS
-- 📍 Aracaju — SE, Brasil
-- 💻 Desenvolvimento web e backend
-- 🧠 Criando meu **Segundo Cérebro**
-- 🚀 Criando projetos próprios para aprender na prática
-- 🎬 Desenvolvendo sites e projetos para usar com meus amigos
-- 📚 Sempre aprendendo alguma coisa nova
+<p>
+Sou estudante de Ciência da Computação na
+<strong>Universidade Federal de Sergipe (UFS)</strong> e gosto de transformar ideias em projetos.
+</p>
 
-> Meu objetivo é escrever código melhor, criar coisas úteis e continuar evoluindo como desenvolvedor.
+<p>
+Atualmente venho focando principalmente em desenvolvimento
+<strong>web e backend</strong>, enquanto continuo explorando novas tecnologias e ferramentas.
+</p>
 
-<br clear="right"/>
+<p>
+🎓 Ciência da Computação — UFS<br>
+📍 Aracaju — SE, Brasil<br>
+💻 Desenvolvimento web e backend<br>
+🧠 Criando meu <strong>Segundo Cérebro</strong><br>
+🚀 Criando projetos próprios para aprender na prática<br>
+🎬 Desenvolvendo sites e projetos para usar com meus amigos<br>
+📚 Sempre aprendendo alguma coisa nova
+</p>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="assets/profile.png" width="250"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <i>
+    Meu objetivo é escrever código melhor, criar coisas úteis
+    e continuar evoluindo como desenvolvedor.
+  </i>
+</p>
 
 ---
 
-## 🤝 Conecte-se comigo
+<h2 align="center">🤝 Conecte-se comigo</h2>
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/BrunoZess">
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:SEU_EMAIL_AQUI">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45"/>
 </a>
@@ -68,15 +97,15 @@ Atualmente venho focando principalmente em desenvolvimento **web e backend**, en
 
 ---
 
-## 🛠️ Tecnologias
+<h2 align="center">🛠️ Tecnologias</h2>
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=js,html,css,python,c,flask,nodejs,electron,git,github,vscode&theme=dark"/>
 
 </p>
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql,linux,figma,aws&theme=dark"/>
 
@@ -84,12 +113,12 @@ Atualmente venho focando principalmente em desenvolvimento **web e backend**, en
 
 ---
 
-## 🚀 Projetos em destaque
+<h2 align="center">🚀 Projetos em destaque</h2>
 
-<table>
+<table align="center">
 <tr>
 
-<td width="50%">
+<td align="center" width="50%">
 
 ### 🧠 Fern — Segundo Cérebro
 
@@ -103,7 +132,7 @@ Ver projeto →
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
 ### 🏙️ Arasaka
 
@@ -121,7 +150,7 @@ Ver projeto →
 
 <tr>
 
-<td width="50%">
+<td align="center" width="50%">
 
 ### 🏆 Tieslist da Tropa
 
@@ -133,7 +162,7 @@ Ver projeto →
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
 ### 🎬 Cinemão do Brunão
 
@@ -150,11 +179,11 @@ Ver projeto →
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoZess&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoZess&theme=github_dark" width="90%"/>
 
 </p>
 
@@ -162,13 +191,15 @@ Ver projeto →
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoZess&theme=github_dark" height="180"/>
 
+&nbsp;&nbsp;
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoZess&theme=github_dark" height="180"/>
 
 </p>
 
 ---
 
-## 🔥 Sequência de contribuições
+<h2 align="center">🔥 Sequência de contribuições</h2>
 
 <p align="center">
 
@@ -178,7 +209,7 @@ Ver projeto →
 
 ---
 
-## 📈 Atividade
+<h2 align="center">📈 Atividade</h2>
 
 <p align="center">
 
@@ -188,7 +219,7 @@ Ver projeto →
 
 ---
 
-## 🐍 Minhas contribuições
+<h2 align="center">🐍 Minhas contribuições</h2>
 
 <p align="center">
 
@@ -213,12 +244,10 @@ Ver projeto →
 
 </p>
 
----
+<br>
 
 <p align="center">
-
-<sub>Feito por Bruno Ulisses • 2026</sub>
-
+  <sub>Feito por Bruno Ulisses • 2026</sub>
 </p>
 
 <p align="center">
