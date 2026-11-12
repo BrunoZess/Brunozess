@@ -1,6 +1,6 @@
 <h2 align="center">Sobre mim</h2>
 
-<table align="center">
+<table align="center" width="90%">
 <tr>
 
 <td width="60%" valign="middle">
@@ -9,9 +9,9 @@
 
 Sou estudante de Ciência da Computação na **Universidade Federal de Sergipe (UFS)**
 
-🎓 Ciência da Computação — UFS  
-📍 Aracaju — SE, Brasil  
-💻 Desenvolvedor Full Stack
+**Ciência da Computação — UFS**  
+**Aracaju — SE, Brasil**  
+**Desenvolvedor Full Stack**
 
 </td>
 
@@ -23,6 +23,8 @@ Sou estudante de Ciência da Computação na **Universidade Federal de Sergipe (
 
 </tr>
 </table>
+
+<br>
 
 ---
 
@@ -44,6 +46,8 @@ Sou estudante de Ciência da Computação na **Universidade Federal de Sergipe (
 
 </p>
 
+<br>
+
 ---
 
 <h2 align="center">Tecnologias</h2>
@@ -54,9 +58,11 @@ Sou estudante de Ciência da Computação na **Universidade Federal de Sergipe (
 
 </p>
 
+<br>
+
 ---
 
-<table align="center">
+<table align="center" width="90%">
 <tr>
 
 <td align="center" width="50%">
@@ -94,6 +100,8 @@ Projeto web desenvolvido com Python e Flask.
 </tr>
 </table>
 
+<br>
+
 ---
 
 <p align="center">
@@ -110,6 +118,8 @@ Projeto web desenvolvido com Python e Flask.
 
 </p>
 
+<br>
+
 ---
 
 <p align="center">
@@ -117,6 +127,8 @@ Projeto web desenvolvido com Python e Flask.
 <img src="https://streak-stats.demolab.com?user=BrunoZess&theme=github-dark&hide_border=true&background=0d0d0f&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=ffffff&dates=9ca3af&locale=pt_BR"/>
 
 </p>
+
+<br>
 
 ---
 
@@ -142,6 +154,8 @@ Projeto web desenvolvido com Python e Flask.
 </picture>
 
 </p>
+
+<br>
 
 ---
 
