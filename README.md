@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" width="100%" alt="Banner"/>
+</p>
+
 <h2 align="center">Sobre mim</h2>
 
 <table align="center" width="90%">
