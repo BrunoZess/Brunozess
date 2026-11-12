@@ -48,10 +48,6 @@
 <h4 align="center">Fern</h4>
 
 <p align="center">
-  <i>Segundo cérebro em formato de aplicação desktop,<br>para organizar notas e quadros.</i>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Electron-6d28d9?style=flat-square&logo=electron&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-8b5cf6?style=flat-square&logo=javascript&logoColor=white"/>
 </p>
@@ -73,10 +69,6 @@
 </p>
 
 <h4 align="center">Arasaka</h4>
-
-<p align="center">
-  <i>Projeto web desenvolvido<br>com Python e Flask.</i>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-6d28d9?style=flat-square&logo=python&logoColor=white"/>
