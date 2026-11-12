@@ -33,26 +33,17 @@
 
 <td width="60%" valign="middle">
 
-<h3>Bruno Ulisses — Estudante de Ciência da Computação</h3>
+<h3>Estudante de Ciência da Computação</h3>
 
 <p>
 Sou estudante de Ciência da Computação na
-<strong>Universidade Federal de Sergipe (UFS)</strong> e gosto de transformar ideias em projetos.
-</p>
+<strong>Universidade Federal de Sergipe (UFS)</strong></p>
 
-<p>
-Atualmente venho focando principalmente em desenvolvimento
-<strong>web e backend</strong>, enquanto continuo explorando novas tecnologias e ferramentas.
-</p>
 
 <p>
 🎓 Ciência da Computação — UFS<br>
 📍 Aracaju — SE, Brasil<br>
-💻 Desenvolvimento web e backend<br>
-🧠 Criando meu <strong>Segundo Cérebro</strong><br>
-🚀 Criando projetos próprios para aprender na prática<br>
-🎬 Desenvolvendo sites e projetos para usar com meus amigos<br>
-📚 Sempre aprendendo alguma coisa nova
+💻 Desenvolvedor Full Stack<br>
 </p>
 
 </td>
@@ -68,16 +59,9 @@ Atualmente venho focando principalmente em desenvolvimento
 
 <br>
 
-<p align="center">
-  <i>
-    Meu objetivo é escrever código melhor, criar coisas úteis
-    e continuar evoluindo como desenvolvedor.
-  </i>
-</p>
-
 ---
 
-<h2 align="center">🤝 Conecte-se comigo</h2>
+<h2 align="center">🤝 Conecte-se</h2>
 
 <p align="center">
 
@@ -120,7 +104,7 @@ Atualmente venho focando principalmente em desenvolvimento
 
 <td align="center" width="50%">
 
-### 🧠 Fern — Segundo Cérebro
+### 🧠 Fern 
 
 Aplicação desktop para organização de notas, quadros e ideias.
 
@@ -148,34 +132,6 @@ Ver projeto →
 
 </tr>
 
-<tr>
-
-<td align="center" width="50%">
-
-### 🏆 Tieslist da Tropa
-
-Site de tier list criado para usar com os amigos.
-
-<a href="https://github.com/BrunoZess/Tieslist-da-Tropa">
-Ver projeto →
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
-### 🎬 Cinemão do Brunão
-
-Site de filmes criado para usar com a galera.
-
-<a href="https://github.com/BrunoZess/cinemao-do-brunao">
-Ver projeto →
-</a>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
