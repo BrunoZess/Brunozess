@@ -28,7 +28,7 @@
   <a href="https://github.com/BrunoZess">
     <img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/bruno-ulisses-de-carvalho-lopes-2a8635277">
     <img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
