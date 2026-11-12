@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,50:4c1d95,100:0d0d0f&height=150&section=header" width="100%"/>
 </p>
 
-<!-- Apresentação -->
-
 <h1 align="center">
   Oi 👋, eu sou o Bruno
 </h1>
@@ -24,8 +22,6 @@
 
 ---
 
-<!-- Sobre mim -->
-
 <h2 align="center">👨‍💻 Sobre mim</h2>
 
 <table align="center">
@@ -33,18 +29,13 @@
 
 <td width="60%" valign="middle">
 
-<h3>Estudante de Ciência da Computação</h3>
+### Estudante de Ciência da Computação
 
-<p>
-Sou estudante de Ciência da Computação na
-<strong>Universidade Federal de Sergipe (UFS)</strong></p>
+Sou estudante de Ciência da Computação na **Universidade Federal de Sergipe (UFS)**
 
-
-<p>
-🎓 Ciência da Computação — UFS<br>
-📍 Aracaju — SE, Brasil<br>
-💻 Desenvolvedor Full Stack<br>
-</p>
+🎓 Ciência da Computação — UFS  
+📍 Aracaju — SE, Brasil  
+💻 Desenvolvedor Full Stack
 
 </td>
 
@@ -57,22 +48,20 @@ Sou estudante de Ciência da Computação na
 </tr>
 </table>
 
-<br>
-
 ---
 
-<h2 align="center">🤝 Conecte-se</h2>
+<h2 align="center">🤝 Conecte-se comigo</h2>
 
 <p align="center">
 
 <a href="https://github.com/BrunoZess">
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="mailto:SEU_EMAIL_AQUI">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45"/>
 </a>
@@ -89,29 +78,25 @@ Sou estudante de Ciência da Computação na
 
 </p>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql,linux,figma,aws&theme=dark"/>
-
-</p>
-
 ---
 
-<h2 align="center">🚀 Projetos em destaque</h2>
+<h2 align="center">🚀 Projetos</h2>
 
 <table align="center">
 <tr>
 
 <td align="center" width="50%">
 
-### 🧠 Fern 
+### 🧠 Fern — Segundo Cérebro
 
-Aplicação desktop para organização de notas, quadros e ideias.
+Aplicação desktop para organização de notas e quadros.
 
 **Electron • JavaScript**
 
+<br>
+
 <a href="https://github.com/BrunoZess/Fern">
-Ver projeto →
+<img src="https://img.shields.io/badge/Ver%20projeto-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -120,22 +105,24 @@ Ver projeto →
 
 ### 🏙️ Arasaka
 
-Projeto web desenvolvido utilizando Python e Flask.
+Projeto web desenvolvido com Python e Flask.
 
 **Python • Flask**
 
+<br>
+
 <a href="https://github.com/BrunoZess/Arasaka">
-Ver projeto →
+<img src="https://img.shields.io/badge/Ver%20projeto-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 </tr>
-
+</table>
 
 ---
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+<h2 align="center">📊 Estatísticas</h2>
 
 <p align="center">
 
@@ -146,8 +133,6 @@ Ver projeto →
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoZess&theme=github_dark" height="180"/>
-
-&nbsp;&nbsp;
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoZess&theme=github_dark" height="180"/>
 
@@ -200,11 +185,7 @@ Ver projeto →
 
 </p>
 
-<br>
-
-<p align="center">
-  <sub>Feito por Bruno Ulisses • 2026</sub>
-</p>
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,50:4c1d95,100:0d0d0f&height=100&section=footer" width="100%"/>
