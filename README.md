@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" width="100%" alt="Banner"/>
+  <img src="assets/banner-fade.png" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
@@ -57,6 +57,12 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/stars/BrunoZess/Fern?style=flat-square&labelColor=0d0d0f&color=8b5cf6&logo=github&logoColor=white&label=estrelas"/>
+  <img src="https://img.shields.io/github/last-commit/BrunoZess/Fern?style=flat-square&labelColor=0d0d0f&color=6d28d9&label=%C3%BAltimo%20commit"/>
+  <img src="https://img.shields.io/github/languages/top/BrunoZess/Fern?style=flat-square&labelColor=0d0d0f&color=4c1d95&label=linguagem"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/BrunoZess/Fern">
     <img src="https://img.shields.io/badge/Ver%20projeto-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -75,6 +81,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-6d28d9?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-8b5cf6?style=flat-square&logo=flask&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/BrunoZess/Arasaka?style=flat-square&labelColor=0d0d0f&color=8b5cf6&logo=github&logoColor=white&label=estrelas"/>
+  <img src="https://img.shields.io/github/last-commit/BrunoZess/Arasaka?style=flat-square&labelColor=0d0d0f&color=6d28d9&label=%C3%BAltimo%20commit"/>
+  <img src="https://img.shields.io/github/languages/top/BrunoZess/Arasaka?style=flat-square&labelColor=0d0d0f&color=4c1d95&label=linguagem"/>
 </p>
 
 <p align="center">
