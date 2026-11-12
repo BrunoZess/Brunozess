@@ -70,7 +70,7 @@ Sou estudante de Ciência da Computação na **Universidade Federal de Sergipe (
 
 ---
 
-<h2 align="center">🛠️ Tecnologias</h2>
+<h2 align="center">Tecnologias</h2>
 
 <p align="center">
 
@@ -80,14 +80,13 @@ Sou estudante de Ciência da Computação na **Universidade Federal de Sergipe (
 
 ---
 
-<h2 align="center">🚀 Projetos</h2>
 
 <table align="center">
 <tr>
 
 <td align="center" width="50%">
 
-### 🧠 Fern — Segundo Cérebro
+###  Fern — Segundo Cérebro
 
 Aplicação desktop para organização de notas e quadros.
 
@@ -103,7 +102,7 @@ Aplicação desktop para organização de notas e quadros.
 
 <td align="center" width="50%">
 
-### 🏙️ Arasaka
+###  Arasaka
 
 Projeto web desenvolvido com Python e Flask.
 
@@ -122,8 +121,6 @@ Projeto web desenvolvido com Python e Flask.
 
 ---
 
-<h2 align="center">📊 Estatísticas</h2>
-
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoZess&theme=github_dark" width="90%"/>
@@ -140,8 +137,6 @@ Projeto web desenvolvido com Python e Flask.
 
 ---
 
-<h2 align="center">🔥 Sequência de contribuições</h2>
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=BrunoZess&theme=github-dark&hide_border=true&background=0d0d0f&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=ffffff&dates=9ca3af&locale=pt_BR"/>
@@ -149,18 +144,6 @@ Projeto web desenvolvido com Python e Flask.
 </p>
 
 ---
-
-<h2 align="center">📈 Atividade</h2>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoZess&bg_color=0d0d0f&color=ffffff&line=8b5cf6&point=a78bfa&area_color=4c1d95&area=true&hide_border=true&custom_title=Gráfico%20de%20contribuições"/>
-
-</p>
-
----
-
-<h2 align="center">🐍 Minhas contribuições</h2>
 
 <p align="center">
 
