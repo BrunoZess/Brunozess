@@ -1,87 +1,90 @@
-<!--
-  README do Bruno Ulisses
-  GitHub: BrunoZess
--->
-
 <!-- Banner -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=160&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,50:4c1d95,100:0d0d0f&height=150&section=header" width="100%"/>
 </p>
 
-<!-- Introduction -->
-<div align="center">
+<!-- Apresentação -->
 
-# Hi 👋, I'm Bruno
+<h1 align="center">
+  Oi 👋, eu sou o Bruno
+</h1>
 
-### Computer Science Student • Backend / Full-Stack Developer
+<p align="center">
+  <strong>Estudante de Ciência da Computação • Desenvolvedor</strong>
+</p>
 
-**Just Code Nig**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Construindo+ideias+em+c%C3%B3digo;Aprendendo+um+pouco+mais+todos+os+dias;Projetos%2C+programa%C3%A7%C3%A3o+e+algumas+ideias+aleat%C3%B3rias" alt="Typing SVG" />
+</p>
 
-*Building things, learning constantly and turning ideas into projects.*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrunoZess&label=visitas&color=7c3aed&style=flat-square" alt="visitas"/>
+</p>
 
-</div>
+---
 
-<br>
-
-<!-- About Me -->
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
 <img align="right" src="assets/profile.png" width="280"/>
 
-**Bruno Ulisses — Computer Science Student**
+**Bruno Ulisses — Estudante de Ciência da Computação**
 
-I'm a Computer Science student at the **Universidade Federal de Sergipe (UFS)**, interested in software development and building projects from scratch.
+Sou estudante de Ciência da Computação na **Universidade Federal de Sergipe (UFS)** e gosto de transformar ideias em projetos.
 
-- 🎓 Computer Science @ UFS
-- 📍 Aracaju, Sergipe — Brazil
-- 💻 Focused on backend and web development
-- 🧠 Currently building my **Second Brain**
-- 🚀 I enjoy turning ideas into apps, websites and experiments
-- 🎬 I also build random projects with my friends
+Atualmente venho focando principalmente em desenvolvimento **web e backend**, enquanto continuo explorando novas tecnologias e ferramentas.
 
-I'm always trying to learn something new, improve my code and build things that are actually useful — or at least fun.
+- 🎓 Ciência da Computação — UFS
+- 📍 Aracaju — SE, Brasil
+- 💻 Desenvolvimento web e backend
+- 🧠 Criando meu **Segundo Cérebro**
+- 🚀 Criando projetos próprios para aprender na prática
+- 🎬 Desenvolvendo sites e projetos para usar com meus amigos
+- 📚 Sempre aprendendo alguma coisa nova
+
+> Meu objetivo é escrever código melhor, criar coisas úteis e continuar evoluindo como desenvolvedor.
 
 <br clear="right"/>
 
 ---
 
-## 🤝 Connect
+## 🤝 Conecte-se comigo
 
 <p align="left">
 
 <a href="https://github.com/BrunoZess">
-  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45"/>
 </a>
 
 <a href="mailto:SEU_EMAIL_AQUI">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45"/>
 </a>
 
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tecnologias
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,python,c,flask,nodejs,electron,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,html,css,python,c,flask,nodejs,electron,git,github,vscode&theme=dark"/>
 
 </p>
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=linux,figma,supabase,mongodb,mysql,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql,linux,figma,aws&theme=dark"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em destaque
 
 <table>
 <tr>
@@ -90,12 +93,12 @@ I'm always trying to learn something new, improve my code and build things that 
 
 ### 🧠 Fern — Segundo Cérebro
 
-Desktop app for notes, boards and personal organization.
+Aplicação desktop para organização de notas, quadros e ideias.
 
 **Electron • JavaScript**
 
 <a href="https://github.com/BrunoZess/Fern">
-  View Repository →
+Ver projeto →
 </a>
 
 </td>
@@ -104,12 +107,12 @@ Desktop app for notes, boards and personal organization.
 
 ### 🏙️ Arasaka
 
-Web project built with Python and Flask.
+Projeto web desenvolvido utilizando Python e Flask.
 
 **Python • Flask**
 
 <a href="https://github.com/BrunoZess/Arasaka">
-  View Repository →
+Ver projeto →
 </a>
 
 </td>
@@ -122,10 +125,10 @@ Web project built with Python and Flask.
 
 ### 🏆 Tieslist da Tropa
 
-A tier list website made to use with friends.
+Site de tier list criado para usar com os amigos.
 
 <a href="https://github.com/BrunoZess/Tieslist-da-Tropa">
-  View Repository →
+Ver projeto →
 </a>
 
 </td>
@@ -134,10 +137,10 @@ A tier list website made to use with friends.
 
 ### 🎬 Cinemão do Brunão
 
-A movie website built for me and my friends.
+Site de filmes criado para usar com a galera.
 
 <a href="https://github.com/BrunoZess/cinemao-do-brunao">
-  View Repository →
+Ver projeto →
 </a>
 
 </td>
@@ -147,7 +150,7 @@ A movie website built for me and my friends.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="center">
 
@@ -165,31 +168,32 @@ A movie website built for me and my friends.
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Sequência de contribuições
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=BrunoZess&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=8957e5&currStreakLabel=58a6ff&locale=pt_BR"/>
+<img src="https://streak-stats.demolab.com?user=BrunoZess&theme=github-dark&hide_border=true&background=0d0d0f&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=ffffff&dates=9ca3af&locale=pt_BR"/>
 
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Atividade
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoZess&theme=github-compact&hide_border=true&area=true&custom_title=Bruno%27s%20Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoZess&bg_color=0d0d0f&color=ffffff&line=8b5cf6&point=a78bfa&area_color=4c1d95&area=true&hide_border=true&custom_title=Gráfico%20de%20contribuições"/>
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Minhas contribuições
 
 <p align="center">
 
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/BrunoZess/BrunoZess/output/github-contribution-grid-snake-dark.svg"
@@ -201,7 +205,7 @@ A movie website built for me and my friends.
   />
 
   <img
-    alt="github contribution snake"
+    alt="cobra das contribuições"
     src="https://raw.githubusercontent.com/BrunoZess/BrunoZess/output/github-contribution-grid-snake.svg"
   />
 
@@ -209,7 +213,14 @@ A movie website built for me and my friends.
 
 </p>
 
-<!-- Footer -->
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
+
+<sub>Feito por Bruno Ulisses • 2026</sub>
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,50:4c1d95,100:0d0d0f&height=100&section=footer" width="100%"/>
 </p>
