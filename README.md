@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack;Construindo+meu+segundo+c%C3%A9rebro" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Sou estudante de Ciência da Computação na **Universidade Federal de Sergipe (
 
 <td align="center" width="50%">
 
-### 🌿 Fern — Segundo Cérebro
+### 🌿 Fern
 
 Aplicação desktop para organização de notas e quadros.
 
