@@ -19,11 +19,6 @@
 <h3 align="center">Estudante de Ciência da Computação</h3>
 
 <p align="center">
-  Sou estudante de Ciência da Computação na <b>Universidade Federal de Sergipe (UFS)</b>,<br>
-  apaixonado por criar aplicações, automatizar o dia a dia e aprender coisas novas.
-</p>
-
-<p align="center">
    <b>UFS</b> &nbsp;•&nbsp;  <b>Aracaju — SE, Brasil</b> &nbsp;•&nbsp;  <b>Desenvolvedor Full Stack</b>
 </p>
 
