@@ -53,41 +53,12 @@
 
 <h3 align="center">✦ Projetos ✦</h3>
 
-<h4 align="center">Fern</h4>
-
-<p align="center">
-  <i>Segundo cérebro em formato de aplicação desktop,<br>para organizar notas e quadros.</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Electron-6d28d9?style=flat-square&logo=electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-8b5cf6?style=flat-square&logo=javascript&logoColor=white"/>
-</p>
-
 <p align="center">
   <a href="https://github.com/BrunoZess/Fern">
-    <img src="https://img.shields.io/badge/Ver%20projeto-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoZess&repo=Fern&show_owner=false&hide_border=true&bg_color=0d0d0f&title_color=a78bfa&text_color=ffffff&icon_color=8b5cf6&locale=pt-br" width="48%"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:4c1d95,100:0d0d0f&height=1" width="40%"/>
-</p>
-
-<h4 align="center">Arasaka</h4>
-
-<p align="center">
-  <i>Projeto web desenvolvido<br>com Python e Flask.</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-6d28d9?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-8b5cf6?style=flat-square&logo=flask&logoColor=white"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/BrunoZess/Arasaka">
-    <img src="https://img.shields.io/badge/Ver%20projeto-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoZess&repo=Arasaka&show_owner=false&hide_border=true&bg_color=0d0d0f&title_color=a78bfa&text_color=ffffff&icon_color=8b5cf6&locale=pt-br" width="48%"/>
   </a>
 </p>
 
@@ -107,10 +78,18 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoZess&bg_color=0d0d0f&color=c4b5fd&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true&custom_title=Atividade%20recente" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:8b5cf6,100:0d0d0f&height=2" width="100%"/>
 </p>
 
 <h3 align="center">✦ Contribuições ✦</h3>
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Contribuições em 3D"/>
+</p>
 
 <p align="center">
   <picture>
