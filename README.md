@@ -16,13 +16,8 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
-
-- 🎓 Estudante na **Universidade Federal de Sergipe (UFS)**
-- 📍 Aracaju - SE, Brasil
-- 🧠 Desenvolvendo o **Segundo Cérebro**, um app desktop de notas feito com Electron
-- 🌱 Aprendendo cada vez mais sobre desenvolvimento web, Python e Flask
-- 🎬 Fazendo sites pra usar com os amigos (cinema, tierlist e o que mais der na telha)
+-  Estudante na **Universidade Federal de Sergipe (UFS)**
+-  Aracaju - SE, Brasil
 
 ---
 
