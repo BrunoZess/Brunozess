@@ -21,7 +21,7 @@ Sou estudante de Ciência da Computação na **Universidade Federal de Sergipe (
 
 <td width="40%" align="center" valign="middle">
 
-<img src="assets/profile.png" width="250"/>
+<img src="assets/profile.jpeg" width="250"/>
 
 </td>
 
