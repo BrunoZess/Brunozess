@@ -26,7 +26,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:8b5cf6,100:0d0d0f&height=2" width="100%"/>
 </p>
 
-<h3 align="center">✦ Conecte-se ✦</h3>
+<h3 align="center">✦ Sociais ✦</h3>
 
 <p align="center">
   <a href="https://github.com/BrunoZess">
