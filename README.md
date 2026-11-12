@@ -52,3 +52,19 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BrunoZess&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=8957e5&currStreakLabel=58a6ff&locale=pt_BR" alt="streak"/>
 </p>
+
+---
+
+### 🐍 A cobrinha comendo minhas contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoZess/BrunoZess/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunoZess/BrunoZess/output/github-contribution-grid-snake.svg" />
+    <img alt="cobrinha" src="https://raw.githubusercontent.com/BrunoZess/BrunoZess/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=110&section=footer" width="100%"/>
+</p>
